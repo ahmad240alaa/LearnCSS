@@ -1,0 +1,71 @@
+		
+h1{
+
+	
+	color: #95afc0;
+	text-align: center;
+}
+#myh1{
+
+color:#e056fd;
+	font-size: 20px;
+}
+h1.myh{
+
+color: #2980b9;
+text-align:left;
+background-color: #27ae60;
+
+}
+div.myh{
+
+color: #c0392b;
+text-align:right;
+}
+/* or we can do */
+/*
+*{
+	color: #3B7A24;
+    font-size: 40px;
+}
+*/
+/* or */
+h1,div,p{
+
+color: #e056fd;
+font-size: 60px;
+
+
+}
+
+
+
+
+
+
+
+section{
+font-size: 20px;
+
+/*border-style: dotted;*/
+/*border-style: dashed;*/
+/*border-style: double;*/
+/*border-style: inset;*/
+border-style: solid ;
+border-width: 6px;
+border-color: blue;
+
+
+/*background:blue url("cat.jpg");*/
+/*background-repeat: no-repeat;*/
+/*background-attachment: fixed;*/
+/*background-attachment: local;*/
+/*background-attachment:scroll; ;*/
+/*
+background-image: url("cat.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-position: center;*/
+/*background-repeat: repeat-x;*/
+/*background-repeat: repeat-y;*/
+}
